@@ -9,4 +9,4 @@ PURPOSE OF PROJECT: My goal for this project is to begin using GitHub to manage 
 VERSION or DATE: 4/22/2024
 HOW TO START THIS PROJECT: Modifying code, just making sure the project can execute.
 AUTHORS: Ostin Hui (349500348@gapps.yrdsb.ca)
-USER INSTRUCTIONS: None yet.
+USER INSTRUCTIONS: Dodge the Banana by clicking anywhere in the game world.
